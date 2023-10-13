@@ -1,6 +1,9 @@
 # Rafaelaugusto16
-Olá me chamo Rafael Augusto,  tenho 22 anos, sou estudante de Sistema de Informação e estou em busca do meu primeiro emprego na área. 
-Atualmente trabalho com projetos de engenharia na parte de automação, telecomunicações e instrumentação. Durante minhas experiências profissionais desenvolvi habilidades em trabalho em equipe, lideranças de equipes e organização de projetos. Possuo interesse em trabalhar como desenvolverdor back-end e estou me aperfeiçoando buscando realizar novos projetos voltados para área.
+Olá, meu nome é Rafael Augusto, tenho 22 anos e estou realizando graduação em Sistemas de Informação. Estou em busca da minha primeira oportunidade de emprego na área de tecnologia.
+
+Atualmente trabalho com projetos de engenharia na parte de automação, telecomunicações e instrumentação. Ao longo das minhas experiências profissionais, adquiri competências essenciais, tais como trabalho colaborativo em equipe, liderança de equipes e gerenciamento de projetos. Contudo, minha verdadeira paixão reside na esfera de desenvolvimento back-end, área na qual venho investindo significativamente no aprimoramento das minhas habilidades e conhecimentos.
+
+Estou entusiasmado em buscar oportunidades que me permitam aplicar minha dedicação e expertise em novos projetos no campo de tecnologia. Ansioso por contribuir para desafios empolgantes e cultivar uma carreira de sucesso na indústria de tecnologia da informação.
 
 ## 🌐Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-augusto16/)
